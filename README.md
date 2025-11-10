@@ -28,3 +28,6 @@ A simple, educational Python script that attempts to crack MD5 password hashes b
 3. 
 * Enter path to hash file: /path/to/hashes.txt
 * Enter path to wordlist file: /path/to/wordlist.txt
+
+## Decision tree
+![](decision_tree_md5.png)
